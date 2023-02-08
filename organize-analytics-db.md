@@ -41,5 +41,3 @@ Organize schemas:
 ## References
 
 - https://medium.com/towards-data-science/how-i-organize-my-snowflake-data-warehouse-996965fe51dc
-- https://airbyte.com/blog/best-practices-dbt-style-guide
-- https://github.com/dbt-labs/corp/blob/main/dbt_style_guide.md
