@@ -4,23 +4,27 @@ Topics: analytics database, ELT, data quality
 
 ## Criteria - how to pick a tool
 
-- Simple configuration
+- Simple configuration - as little maintenance as possible
 - SQL first
 - Code first - easy to version control and other SWE best practices
 - Open source with the option to go for a cloud offering
 
 ## Extract and load
 
-Tools: airbyte, meltano
+Tools: airbyte, meltano, singer
 
 ## Transform
 
-dbt
+Tools: dbt
 
 ## Analytics database
 
-duckdb
+Tools: duckdb, snowflake
 
 ## Data quality
 
-Soda, great expectations
+Tools: dbt test, soda, great expectations
+
+## Orchestrate
+
+Tools: airflow, prefect
